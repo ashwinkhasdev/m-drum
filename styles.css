@@ -1,14 +1,15 @@
 body {
   text-align: center;
   background: rgb(217, 150, 74);
-  background: #e8384c;
+  background: #4C0033;
+  
 }
 
 h1 {
   font-size: 9rem;
-  color: #13fc03;
+  color: black;
   font-family: "Arvo", cursive;
-  text-shadow: 5px 0 #DA0463;
+  text-shadow: 5px 0 #AF0171;
 }
 
 .w {
@@ -64,7 +65,7 @@ h1 {
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
-  color: #8ec6d1;
+  color: black;
   text-shadow: 3px 0 #DBEDF3;
   border-radius: 15px;
   display: inline-block;
